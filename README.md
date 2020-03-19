@@ -4,4 +4,5 @@ This is a docker container with jupyter and the tslab kernel installed. (for Nod
 
 ## How to run
 ```
-docker container run -p 8888:8888 -v $(pwd):/usr/notebooks blncinema/jupyter-tslab:1.0.0```
+docker container run -p 8888:8888 -v $(pwd):/usr/notebooks blncinema/jupyter-tslab:1.0.0
+```
